@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- M.S., Applied Analytics	| Columbia University (_December 2024_)	 			        		
-- B.S., Business Administration | University of Southern California (_December 2020_)
+- M.S., Applied Analytics	| Columbia University (_Dec 2024_)	 			        		
+- B.S., Business Administration | University of Southern California (_Dec 2020_)
 
 ## Work Experience
 **Data Analyst @ LU Hong Kong (_May 2021 - October 2022_)**
