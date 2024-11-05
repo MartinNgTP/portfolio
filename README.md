@@ -10,7 +10,6 @@
 **Data Analyst @ LU Hong Kong (_May 2021 - October 2022_)**
 - Conducted in-depth analysis of data from 30,000 users, driving strategies that improved user acquisition, app engagement, and investment behaviors
 - Developed dynamic, data-driven dashboards and comprehensive internal reports, providing key stakeholders with real-time visualizations and performance metrics
-- Spearheaded the design and optimization of marketing campaigns, leveraging data insights to significantly improve campaign ROI and user engagement
 - Optimized marketing campaigns through data-driven strategies, significantly improving ROI and user engagement
 - Managed app content and oversaw budgeting for marketing initiatives, ensuring accuracy and maximizing campaign efficiency
 
